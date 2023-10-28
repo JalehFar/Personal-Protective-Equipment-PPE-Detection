@@ -6,6 +6,7 @@
 ## Introduction
 
 
-Health and safety is a requirement in many industrial workspaces. Many incidents occur because workers do not personal protective equipment (PPE) properly. To assure that all the workers follow these rules many companies and industries have tried using automated monitoring system to improve supervision. Automated monitoring device ensures the detection of full personal protective equipment and have a long lifetime and do not suffer from the errors by human monitoring. In this project the dataset provided by Roboflow on [PPE Object Detection](https://universe.roboflow.com/ardi-csjyk/ppe-hfjoc/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true) has been used. 
+Health and safety is a requirement in many industrial workspaces. Many incidents occur because workers do not use personal protective equipment (PPE) properly. To assure that all the workers follow these rules many companies and industries have tried using automated monitoring system to improve supervision. Automated monitoring device ensures the detection of full personal protective equipment and have a long lifetime and do not suffer from the errors by human monitoring. In this project the dataset provided by Roboflow on [PPE Object Detection](https://universe.roboflow.com/ardi-csjyk/ppe-hfjoc/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true) has been used. 
+The dataset consists of 2497 image samples. These images are split into train: 2178(87%), valid: 199(8%) and test: 120(5%) sets. 
 
 
