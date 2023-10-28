@@ -83,16 +83,14 @@ In order to have a fair comparison between the two models, we tried to choose th
 
 ## Results
 
+![1](https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/73cc8dfa-fa9e-445c-86b0-02722116bde1)
 
 
-https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/df25cadc-1989-48fd-a0b8-bdf1e4cac79f
-
-
-
-
+![image_25_jpg rf 5da0d0b438faae77c86589f53d4a8464](https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/bf601d71-f129-485d-af36-ec818af4c3be)
 
 
 
+![2023-06-20_23-24-53](https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/79aac474-7e78-4679-acca-d6b2ec27c091)
 
 
 
