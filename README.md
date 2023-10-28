@@ -17,6 +17,15 @@ Overall, there are  7 classes in the dataset:
 
 By adding some features to the code we were able to enhance the overall user experience and offer flexibility to adapt the PPE detection system to different environments. So, the users can choose the specific PPE equipment they want the model to detect.<img width="408" alt="image" src="https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/ad254dba-38b1-46c0-9dff-99479aa912c6">
 
+## Setup
+
+We installed the ultralytics library run YOLOv5 and YOLOv8 custom object detection on the dataset.
+
+For more information check out these repositories: [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5) and [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
+
+
+Note: This repository contains all the results, visualizations and best model after custom training on the dataset.
+
 
 
 
