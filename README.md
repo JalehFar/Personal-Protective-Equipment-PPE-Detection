@@ -1,5 +1,7 @@
 # Personal-Protective-Equipment-PPE-Detection using YOLOv5 and YOLOv8
-![giphy](https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/f3edc7c8-7723-4c79-9259-c6ee4cb798e3)
+
+![c072f67c1f165bdd817516ef05837ef61c1dce3f](https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/1017e5fb-8d98-4328-9396-56ce0e2c7217)
+
 
 ## Introduction
 
