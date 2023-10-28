@@ -28,7 +28,7 @@ Note: These repositories contain all the results, visualizations and best model 
 
 ## File Hierarchy
 
-1."data" folder consists of the yaml file required for training. It also contains 3 folders train, valid and test. Each of these folders have 2 subfolders images (with .jpg files) and labels (with .txt annotations).
+1.**data** folder consists of the yaml file required for training. It also contains 3 folders train, valid and test. Each of these folders have 2 subfolders images (with .jpg files) and labels (with .txt annotations).
 2.results folder consists of the prediction results of the model, confusion matrix plot, visualizations of the train and valid batches and PR curves.
 3.models folder consists of 2 models, yolov8n.pt which is the pre-trained model on COCO128.yaml and best.pt which is the custom trained yolov8n model on our dataset.
 4.code folder consists of videos and images for evaluation of our custom trained model.
