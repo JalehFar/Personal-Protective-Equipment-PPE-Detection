@@ -24,7 +24,16 @@ We installed the ultralytics library run YOLOv5 and YOLOv8 custom object detecti
 For more information check out these repositories: [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5) and [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 
 
-Note: This repository contains all the results, visualizations and best model after custom training on the dataset.
+Note: These repositories contain all the results, visualizations and best model after custom training on the dataset.
+
+## File Hierarchy
+
+1."data" folder consists of the yaml file required for training. It also contains 3 folders train, valid and test. Each of these folders have 2 subfolders images (with .jpg files) and labels (with .txt annotations).
+2.results folder consists of the prediction results of the model, confusion matrix plot, visualizations of the train and valid batches and PR curves.
+3.models folder consists of 2 models, yolov8n.pt which is the pre-trained model on COCO128.yaml and best.pt which is the custom trained yolov8n model on our dataset.
+4.code folder consists of videos and images for evaluation of our custom trained model.
+5.output folder consists of output produced by our custom object detection model after 100 epochs of training.
+
 
 
 
