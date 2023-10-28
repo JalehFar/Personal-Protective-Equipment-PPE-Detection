@@ -10,7 +10,10 @@ Health and safety is a requirement in many industrial workspaces. Many incidents
 The dataset consists of 2497 image samples. These images are split into train: 2178(87%), valid: 199(8%) and test: 120(5%) sets. 
 
 Overall, there are  7 classes in the dataset:
+
 <img width="481" alt="image" src="https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/db37e89f-4442-4b8e-b697-6937452da933">
+
+![image](https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/7f1973c0-c8ae-4084-aeb8-dc1e5e3a9165)
 
 
 
