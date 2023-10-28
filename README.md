@@ -15,9 +15,7 @@ Overall, there are  7 classes in the dataset:
 
 ![image](https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/7f1973c0-c8ae-4084-aeb8-dc1e5e3a9165)
 
-By adding some features to the code we were able to enhance the overall user experience and offer flexibility to adapt the PPE detection system to different environments. So, the users can choose the specific PPE equipment they want the model to detect.
-
-<img width="204" alt="image" src="https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/ad254dba-38b1-46c0-9dff-99479aa912c6">
+By adding some features to the code we were able to enhance the overall user experience and offer flexibility to adapt the PPE detection system to different environments. So, the users can choose the specific PPE equipment they want the model to detect.<img width="408" alt="image" src="https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/ad254dba-38b1-46c0-9dff-99479aa912c6">
 
 
 
