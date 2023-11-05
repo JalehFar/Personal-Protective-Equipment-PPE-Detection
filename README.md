@@ -92,16 +92,46 @@ In order to have a fair comparison between the two models, we tried to choose th
 
 ![2023-06-20_23-24-53](https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/79aac474-7e78-4679-acca-d6b2ec27c091)
 
+--------
 
+# **PPE Detection Android App**
 
+<p align="center">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/117992631/280543348-b1844c99-e002-4b28-9071-701253385417.png">
+</p>
 
+**Motivation**
+- Increased Accessibility
+- Real-time PPE Detection 
+- Minimal and User-friendly interface
+- Portable and cost-effective.
+- Offline Capability
 
+** Base Code and Customization**
+<p align="left">
+<img src="https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/a49557f8-0406-4e7f-b230-52d19f117fc0">
+</p>
 
+- PyTorch android-demo-app
+- Development Environment: Android Studio
+<p align="left">
+<img src="https://github.com/JalehFar/Personal-Protective-Equipment-PPE-Detection/assets/117992631/fce7aaec-079f-41b6-a6f1-b7519cbd437e">
+</p>
 
+1- **Exporting the Model to Lite Version**
+- PyTorch Lite is specifically optimized for deployment on mobile and embedded devices, offering improved efficiency and reduced memory footprint compared to the full PyTorch framework.
+- export the trained model to the torchscript format.
+- optimize and export the TorchScript model to torchscript.ptl for mobile deployment using the optimize_for_mobile function from the torch.utils.mobile_optimizer module.
 
+2- **Setting up the android studio project**
+ - Dependencies were added: 
+- org.pytorch:pytorch_android is the main dependency with PyTorch Android API 
+- org.pytorch:pytorch_android_torchvision  is an additional library with utility functions for converting android.media.Image and android.graphics.Bitmap to tensors.
 
+- Made the versions of Android Studio, android gradle plugin, Android SDK, Android NDK and PyTorch Android API compatible.
+- LiteModuleLoader.load: optimized model loaded to the application.
+- The class names were updated.
 
-
-
-
-
+<p align="center">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/117992631/280544754-0dddaca3-a97f-420f-b99e-c68035a2eaff.jpg">
+</p>
